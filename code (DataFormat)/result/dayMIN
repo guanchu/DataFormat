@@ -1,0 +1,19 @@
+dialog	translation:4	news:4	
+other	translation:5	message:5	app:5	website:5	
+translation	weather:4	news:4	
+weather	translation:4	
+train	translation:5	news:5	
+message	other:5	translation:5	
+news	translation:4	contacts:4	restaurant:4	
+app	other:5	contacts:5	
+telephone	other:5	
+schedule	news:5	contacts:5	restaurant:5	flight:5	stock:5	
+ 	:0	
+lbs	flight:6	:6	
+restaurant	news:3	
+contacts	news:5	
+music	translation:4	restaurant:4	
+flight	news:4	
+map	translation:5	
+website	translation:4	:4	
+stock	schedule:5	website:5	
